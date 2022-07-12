@@ -2,7 +2,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **JavaScript, PHP, Python, MySQL**
+- 💬 Ask me about **JavaScript, TypeScript, PHP, Python, MySQL**
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
