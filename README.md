@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm a Fullstack Engineer. </a></h1>
+<h1 align="center">👋 Hi, I'm a full-stack engineer. </a></h1>
 
 - 🌱 Learning Never Stops 🚀
 
